@@ -25,6 +25,6 @@ export abstract class DocumentSecurise {
   }
 
   protected finImpression(): void {
-    console.log("Fin de l'impression.");
+    console.log("Fin de l'impression.\n");
   }
 }
